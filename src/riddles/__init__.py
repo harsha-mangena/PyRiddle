@@ -1,1 +1,1 @@
-from riddles import RiddleSource
+from src.riddles.data import data

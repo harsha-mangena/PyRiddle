@@ -1,7 +1,7 @@
 import argparse
 
-from data import data
-from riddles import RiddleSource
+from riddles.data import data
+from riddles.riddle import RiddleSource
 
 def create_argparser():
     parser = argparse.ArgumentParser(description="Fetch and display riddles.")
