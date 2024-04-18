@@ -5,7 +5,7 @@ setup(
     version="1.0.0",
     description="A package that serves riddle(s).",
     package_dir={"": "src"},
-    packages=find_packages(where="pyriddle"),
+    packages=find_packages(where="src"),
     long_description="Package to retrieve and display riddles",
     long_description_content_type="text/markdown",
     url="",
