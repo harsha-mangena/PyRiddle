@@ -1,2 +1,0 @@
-[console_scripts]
-pyriddle = cli:main

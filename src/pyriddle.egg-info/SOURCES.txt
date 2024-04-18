@@ -1,6 +1,10 @@
 LICENSE
 README.md
 setup.py
+src/pyriddle/__init__.py
+src/pyriddle/cli.py
+src/pyriddle/data.py
+src/pyriddle/riddle.py
 src/pyriddle.egg-info/PKG-INFO
 src/pyriddle.egg-info/SOURCES.txt
 src/pyriddle.egg-info/dependency_links.txt
