@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="pyriddle",
-    version="0.5.5",
+    version="1.0.0",
     description="A package that serves riddle(s).",
     package_dir={"": "src"},
     packages=find_packages(where="pyriddle"),
@@ -16,6 +16,7 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3.10",
         "Operating System :: OS Independent",
+        "Development Status :: 4 - Beta"
     ],
     install_requires=["bson >= 0.5.10"],
     extras_require={
