@@ -1,5 +1,5 @@
 import unittest
-from riddle.pyriddle import riddle_factory
+from pyriddle.riddle import riddle_factory
 
 
 class TestRiddleFactory(unittest.TestCase):

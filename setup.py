@@ -2,10 +2,10 @@ from setuptools import find_packages, setup
 
 setup(
     name="pyriddle",
-    version="0.5.0",
+    version="0.5.5",
     description="A package that serves riddle(s).",
     package_dir={"": "src"},
-    packages=find_packages(where="src"),
+    packages=find_packages(where="pyriddle"),
     long_description="Package to retrieve and display riddles",
     long_description_content_type="text/markdown",
     url="",
