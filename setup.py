@@ -16,7 +16,7 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3.10",
         "Operating System :: OS Independent",
-        "Development Status :: 4 - Beta"
+        "Development Status :: 4 - Beta",
     ],
     install_requires=["bson >= 0.5.10"],
     extras_require={
