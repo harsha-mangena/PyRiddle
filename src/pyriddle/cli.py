@@ -2,8 +2,8 @@ import argparse
 import random
 
 
-from pyriddle import riddle_factory
-from pyriddle.data import data
+from .riddle import riddle_factory
+from .data import data
 
 get_riddle, get_riddles = riddle_factory(data)
 

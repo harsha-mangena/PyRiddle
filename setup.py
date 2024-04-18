@@ -23,7 +23,7 @@ setup(
     },
     entry_points={
         "console_scripts": [
-            "pyriddle=cli:main", 
+            "pyriddle=pyriddle.cli:main", 
         ],
     },
     python_requires=">=3.10",
