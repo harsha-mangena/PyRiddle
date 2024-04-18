@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+pyriddle/pyriddle.egg-info/PKG-INFO
+pyriddle/pyriddle.egg-info/SOURCES.txt
+pyriddle/pyriddle.egg-info/dependency_links.txt
+pyriddle/pyriddle.egg-info/entry_points.txt
+pyriddle/pyriddle.egg-info/requires.txt
+pyriddle/pyriddle.egg-info/top_level.txt
+tests/test_riddle.py
