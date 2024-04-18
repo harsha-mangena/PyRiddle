@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="pyriddle",
-    version="0.1.1",
+    version="0.5.0",
     description="A package that serves riddle(s).",
     package_dir={"": "src"},
     packages=find_packages(where="src"),
